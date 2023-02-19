@@ -1,6 +1,6 @@
 -- Scrax ~ by Voidium
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CraftyUnknown/ssdfDFGjhFKHJkjlhLKHJhkjJH/main/Scrax"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CraftyUnknown/voidium/main/Scrax"))()
 
 -- Games:
 
